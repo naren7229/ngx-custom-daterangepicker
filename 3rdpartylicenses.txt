@@ -450,9 +450,6 @@ Apache-2.0
  
 
 
-saturn-datepicker
-MIT
-
 webpack
 MIT
 Copyright JS Foundation and other contributors
